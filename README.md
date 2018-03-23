@@ -1,6 +1,6 @@
 # URL
 
-Please visit https:itemcatalog.tk or http://139.59.64.70 to go to the website.
+Please visit https://itemcatalog.tk or http://139.59.64.70 to go to the website.
 
 ## SOFTWARES INSTALLED
 * Apache: theh website uses apache as the web server
